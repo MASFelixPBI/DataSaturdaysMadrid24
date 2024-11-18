@@ -1,5 +1,3 @@
-Onwer: Miguel Félix
-
 # Fabric Fast Track: Exploring End-to-End
 
 This repository includes the files for the Data Saturday Madrid 2024 Workshop (29 November 2024)
@@ -33,3 +31,6 @@ Download of a local copy of the files is not needed
 Fabric Artifacts: [Artifacts](https://github.com/MASFelixPBI/DataSaturdaysMadrid24/tree/main/Files/Artifacts)
 * pqt files - Power Query template files used for Dataflows Gen2 Creation
 * ipynb files - Notebook files
+
+
+Last update: November 2024 Miguel Félix
