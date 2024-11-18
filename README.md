@@ -1,6 +1,8 @@
+Onwer: Miguel Félix
+
 # Fabric Fast Track: Exploring End-to-End
 
-This repository includes the files for the Data Saturday Madrid 2024 Workshop (*29 November 2024)
+This repository includes the files for the Data Saturday Madrid 2024 Workshop (29 November 2024)
 
 
 ## Description
