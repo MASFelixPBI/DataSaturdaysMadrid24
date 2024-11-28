@@ -32,7 +32,7 @@ Fabric Artifacts: [Artifacts](https://github.com/MASFelixPBI/DataSaturdaysMadrid
 * pqt files - Power Query template files used for Dataflows Gen2 Creation
 * ipynb files - Notebook files
 
-Presentations: [Presentation] (Files/Presentation)
+Presentations: [Presentation](https://github.com/MASFelixPBI/DataSaturdaysMadrid24/tree/main/Files/Presentation)
 * Presentation in PDF format 
 
 
